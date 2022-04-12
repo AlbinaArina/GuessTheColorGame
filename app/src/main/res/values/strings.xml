@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessTheColorGameJava</string>
+    <string name="guess">Guess the color after merging</string>
+    <string name="answer_correct">CORRECT:)</string>
+    <string name="answer_incorrect">INCORRECT:(</string>
+    <string name="winner">Win!!!</string>
+    <string name="loser">You lose(</string>
+</resources>

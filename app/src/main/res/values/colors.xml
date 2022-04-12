@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#888888</color>
+    <color name="light_pink">#ffd4ff</color>
+    <color name="light_brown">#96745e</color>
+    <color name="light_blue">#a6d3ff</color>
+    <color name="light_red">#ff91b1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="circles_solid">#333</color>
+    <color name="gray_background">#444</color>
+<!--    <color name="text_color">#FFFFFFFF</color>-->
+<!--    <color name="text_color">#FFFFFFFF</color>-->
+<!--    <color name="text_color">#FFFFFFFF</color>-->
+</resources>
