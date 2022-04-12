@@ -8,7 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="text_color">#FFFFFFFF</color>
-    <color name="circles_solid">#333</color>
+    <color name="gray_333">#333</color>
     <color name="gray_background">#444</color>
 <!--    <color name="text_color">#FFFFFFFF</color>-->
 <!--    <color name="text_color">#FFFFFFFF</color>-->
